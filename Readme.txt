@@ -1,2 +1,2 @@
 Improving my skill with leetcode
-thank you
+thank you!
