@@ -7,4 +7,4 @@ from
 As Q
 Where Q.total_weight <= 1000
 Order by Q.turn Desc
-Limit 1
+Limit 1     
